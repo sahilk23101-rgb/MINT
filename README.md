@@ -31,6 +31,9 @@ A minimal Clarity fungible token (FT) project using Clarinet + Vitest. It define
 - Explorer (replace with your tx/contract URL if desired):
   - https://explorer.hiro.so/txid?chain=testnet
   - https://explorer.hiro.so/contract/ST2KMS23R64H7QB9QRX20SZNCHAAA9GVDQF430P8.my-token?chain=testnet
+ 
+  - <img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/6902d680-d4ec-468d-8073-c8eaddcd271b" />
+
 
 ## Getting Started
 
